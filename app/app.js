@@ -10,8 +10,8 @@ const App = ({ children, routes }) => {
     <div>
       <aside>
         <ul>
-          <li><Link to={Products.path}>Prdddddoducts</Link></li>
-          <li><Link to={Orders.path}>Orders</Link></li>
+          <li><Link to={Products.path}>Products</Link></li>
+          <li><Link to={Orders.path}>dddOrders</Link></li>
         </ul>
       </aside>
       <main>
