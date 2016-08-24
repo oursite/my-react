@@ -7,6 +7,8 @@ const webpackDevMiddleware = require('webpack-dev-middleware');
   const  webpackHotMiddleware = require('webpack-hot-middleware');
 const config = require('./webpack.config');
 
+
+
 var app = express()
 var devServer = {
     contentBase: './app/',
